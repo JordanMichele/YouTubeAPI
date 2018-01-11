@@ -1,0 +1,21 @@
+
+body {
+	text-align: center;
+	padding-top: 50px;
+	color: black;
+	background-color: grey;
+}
+
+button:hover {
+	background-color: green;
+
+}
+
+h2 {
+	font-size: 18px;
+}
+
+#result {
+	font-size: 22px;
+}
+
